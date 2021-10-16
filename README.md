@@ -1,11 +1,3 @@
-# cv-blog
-Hi Everyone I am Salah Hamood And this is a first test project in Github<br>
-New Line1<br>
-New Line2<br>
-New Line3<br>
-New Line4<br>
-New Line5<br>
-
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
@@ -66,4 +58,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # cv-blog
-Hi Everyone I am Salah Hamood And this is a first test project in Github
+Hi Everyone I am Salah Hamood / Programmer of this startup project with Canadians Team.
+All will added soon to developing on this project to be online ASAP.
